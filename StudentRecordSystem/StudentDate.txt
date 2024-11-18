@@ -1,0 +1,45 @@
+JUSBIE123_Justin Bieber_BSc_Science_0.00_3_71.25
+TAYSWI456_Taylor Swift_BBusSci_Commerce_0.00_4_70.13
+HARSTY555_Harry Styles_BCom_Commerce_0.00_3_68.12
+JADSMI442_Jaden Smith_BCom_Commerce_1500.00_3_81.00
+MILCYR788_Miley Cyrus_BSc_Science_2520.00_3_98.00
+GOMSEL123_Selena Gomez_BCom_Commerce_0.00_3_45.00
+ZAYMAL976_Zayn Malik_BSc_Science_456.00_3_65.25
+JOEJON145_Joe Jonas_BA_Humanities_850.00_3_65.50
+OLIROD444_Olivia Rodrigo_BSocSci_Humanities_1000.00_4_62.50
+PAUMES124_Paul Mescal_BA_Humanities_988.00_3_75.25
+DEMLOV787_Demi Lovato_BA_Humanities_750.00_3_75.75
+KENJEN434_Kendall Jenner_BSocSci_Humanities_450.00_4_80.60
+BRIMEN999_Bridget Mendler_BSc_Science_500.00_3_80.42
+AUSMAH001_Austin Mahone_BMus_Humanities_12000.00_4_90.50
+NIAHOR176_Niall Horan_BMus_Humanities_10000.00_4_90.55
+MADBEE244_Madison Beer_BMus_Humanities_15000.00_4_55.60
+ZARLAR343_Zara Larsson_BCom_Commerce_12000.00_3_60.43
+NOACEN901_Noah Centineo_BA_Humanities_150.00_3_43.98
+JACELO976_Jacob Elordi_MBChB_Health Sciences_24000.00_6_78.99
+AUSBUT234_Austin Butler_MBChB_Health Sciences_6500.00_6_68.45
+ARIGRA234_Ariana Grande_BMus_Humanities_850.00_4_69.45
+MARGAR876_Martin Garrix_BEng_Engineering & Built Environment_725.00_4_69.80
+KEVJON000_Kevin Jonas_LLB_Law_9000.00_4_54.30
+KYLJEN656_Kylie Jenner_BSc_Science_10500.00_3_35.60
+TIMCHA223_Timothee Chalamet_BA_Humanities_12650.00_3_45.50
+TOMHOL221_Tom Holland_LLB_Law_18450.00_4_60.20
+SHAMEN233_Shawn Mendes_BEng_Engineering & Built Environment_1250.00_4_78.60
+TROSIV445_Troye Sivan_BSc_Science_13300.00_3_78.90
+BRASIM232_Brad Simpson_LLB_Law_20100.00_4_79.99
+COLSPR445_Cole Sprouse_BSc_Science_21000.00_3_80.64
+WILSMI778_Willow Smith_BEng_Engineering & Built Environment_9000.00_4_47.80
+BILEIL978_Billie Eilish_BCom_Commerce_15000.00_3_68.30
+SABCAR226_Sabrina Carpenter_BSc_Science_4000.00_3_65.00
+LOUTOM887_Louis Tomlinson_BSc_Science_4400.00_3_92.00
+LUKHEM665_Luke Hemmings_BMus_Humanities_6480.00_4_78.20
+WALSCO765_Walker Scobell_MBChB_Health Sciences_45680.00_6_96.40
+CALHOO334_Calum Hood_BSocSci_Humanities_8510.00_4_83.00
+NICJON435_Nick Jonas_MBChB_Health Sciences_900.00_6_87.00
+KIMKAR288_Kim Kardashian_LLB_Law_600.00_4_78.90
+DUALIP216_Dua Lipa_BEng_Engineering & Built Environment_5750.00_4_85.20
+EMMWAT334_Emma Watson_BBusSci_Commerce_4560.00_4_83.45
+LIAPAY678_Liam Payne_BCom_Commerce_3210.00_3_64.00
+CHREVA223_Chris Evans_BCom_Commerce_7850.00_3_63.00
+ZENCOL000_Zendaya Coleman_BEng_Engineering & Built Environment_16750.00_4_95.00
+DRESTA482_Drew Starkey_BEng_Engineering & Built Environment_18900.00_4_60.00
